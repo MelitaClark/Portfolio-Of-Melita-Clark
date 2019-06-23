@@ -8,3 +8,4 @@ $(".jumper").on("click", function( e ) {
     }, 600);
     
 });
+
